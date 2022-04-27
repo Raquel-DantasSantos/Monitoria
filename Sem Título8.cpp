@@ -21,3 +21,14 @@ int main(){
 	
 	return 0;
 }
+
+/*inteiro - 1,2,3,4 - int
+
+float - 232,434 2332,323 - f
+
+double - 
+
+/*
+ou  ||  or 
+e   && and
+nao !! not*/
